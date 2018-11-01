@@ -1,6 +1,6 @@
 # DrThinkingPatientAndroid
 
-
+This projects is a wrapper for the SAP UI5 project. See link below.
 
 # Prerequisites
 
