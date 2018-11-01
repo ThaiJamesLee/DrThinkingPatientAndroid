@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DrThinkingPatient</string>
+
+    <string name="title_activity_fullscreen_view">FullscreenView</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
