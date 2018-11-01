@@ -13,7 +13,7 @@ https://github.com/xia199586/DrThinkingPatient
 
 1. Clone this project and add it to your Android Studio.
 
-2. Copy the link of the running application that was created (see in 1).
+2. Copy the link of the running application that was created (see in Prerequisites 1).
 
 3. Paste it into the Constants.java into the URL.
 
